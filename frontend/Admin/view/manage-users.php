@@ -47,12 +47,12 @@
             <span class="links_name">Sensors</span>
           </a>
         </li>
-        <li>
+        <!-- <li>
           <a href="#">
             <i class='fa fa-cog' ></i>
             <span class="links_name">Settings</span>
           </a>
-        </li>
+        </li> -->
         <li class="log_out">
           <a href="../../../index.php">
             <i class='bx bx-log-out'></i>
